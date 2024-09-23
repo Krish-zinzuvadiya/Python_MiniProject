@@ -1,0 +1,8 @@
+Name : krish zinzuvadiya
+Age : 19
+Email : krish@gmail.com
+Occupation : Study
+Address : cbshdc
+City : bhavnagar
+State : gujrat
+Country : india
