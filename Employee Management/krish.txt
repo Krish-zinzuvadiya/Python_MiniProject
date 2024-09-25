@@ -1,0 +1,7 @@
+--------------------------
+Name : krish
+Age : 20
+Post : Manager
+Mobile Number : 9987645374
+Email : krishz@gmail.com
+--------------------------
